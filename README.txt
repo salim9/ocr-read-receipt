@@ -11,6 +11,5 @@ For Tesseract, you must provide the file path of the tessdata folder. There are 
 
 You can contact me for any questions you may have.
 
-Codded with: @emircanaydin (Github)
 ig : salimania
 github: salim9
